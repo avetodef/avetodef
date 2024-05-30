@@ -2,7 +2,7 @@
 My name is Sofia, I'm a third year student @ ITMO, ICT faculty.
 
 ### My stack
-Java core
+Java core, 
 C++
 
 ### My profile contains
