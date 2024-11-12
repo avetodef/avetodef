@@ -1,5 +1,6 @@
 ### Hi there 👋
-My name is Sofia, I'm a third year student @ ITMO, ICT faculty.
+My name is Sofia, I'm a fourth year student @ ITMO, ICT faculty.
+I'm a junior software engineer specializing in LTE base station configuration.
 
 ### My stack
 Java core, 
