@@ -1,10 +1,10 @@
 ### Hi there 👋
-My name is Sofia, I'm a fourth year student @ ITMO, ICT faculty.
-I'm a junior software engineer specializing in LTE base station configuration.
+My name is Sofia, I'm a fourth year student @ ITMO, faculty of applied informatics.
+I'm a junior software engineer specializing in MAC-PS component of LTE base station.
 
 ### My stack
 Java core, 
-C++
+C++ 17
 
 ### My profile contains
 1. [`Java labs from Sowtfare Engineering/Robotics course`](#[feature](https://github.com/avetodef/prog-lab8))
